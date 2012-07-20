@@ -1,0 +1,4 @@
+describe("jasmine.hopacion", function() {
+
+})
+
